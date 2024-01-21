@@ -11,6 +11,16 @@ body{
     margin-top: 100px;
     margin-bottom: 35px;
   }
-  #contents p{
+  #contents p, a{
     margin-bottom: 35px;
+    color: black;
+    text-decoration: none;
+  }
+  #title{
+    color: grey;
+    font-size: 12px;
+    font-weight: 400;
+  }
+  #entry-contents{
+    line-height: 1.75;
   }
